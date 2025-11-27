@@ -1,0 +1,5 @@
+{
+  "name": "BladeGuard AI",
+  "description": "Advanced computer vision inspection tool for wind turbine blades, detecting structural faults like cracks, erosion, and lightning damage with high precision using Gemini AI.",
+  "requestFramePermissions": []
+}
